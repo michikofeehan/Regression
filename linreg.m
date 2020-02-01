@@ -1,7 +1,6 @@
 %
 %Michiko Feehan
-%Linear vs Nonlinear Regression
-%April 7, 2017
+%Linear vs Nonlinear Regression 
 
 figure;
 hold on;
